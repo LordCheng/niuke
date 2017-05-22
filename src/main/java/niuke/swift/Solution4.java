@@ -3,7 +3,8 @@ package niuke.swift;
 import java.util.Stack;
 
 /**
- * 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
+ * 用两个栈实现队列：
+ * 	 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
  * @author lordchen
  */
 public class Solution4 {
